@@ -15,7 +15,7 @@ width="520" alt="repro-stats ecosystem" />
 
 <br/><br/>
 
-[![CRAN](https://img.shields.io/badge/CRAN-reproducr-276DC3?logo=r&logoColor=white)](https://cran.r-project.org/package=reproducr)
+[![CRAN](https://img.shields.io/badge/CRAN-reproducr-276DC3?logo=r&logoColor=white)](https://cran.r-project.org/web/packages/bayprior/index.html)
 [![docs](https://img.shields.io/badge/docs-repro--stats.github.io-0F6E56)](https://repro-stats.github.io/reproducr/)
 [![database](https://img.shields.io/badge/database-reproducr--db-orange)](https://github.com/repro-stats/reproducr-db)
 
