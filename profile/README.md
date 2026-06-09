@@ -8,8 +8,10 @@
 
 <!-- Ecosystem: reproducr hex + placeholder slots for future packages -->
 
-<img src="https://raw.githubusercontent.com/repro-stats/.github/main/profile/ecos.svg"
+<!--
+<img src="https://raw.githubusercontent.com/repro-stats/.github/main/profile/ecosystem.svg"
 width="520" alt="repro-stats ecosystem" />
+-->
 
 <br/><br/>
 
