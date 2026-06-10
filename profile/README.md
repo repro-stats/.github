@@ -8,11 +8,6 @@
 
 <p><strong>Because your results should mean the same thing tomorrow as they do today.</strong></p>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/repro-stats/.github/main/profile/ecosystem.svg"
-width="520" alt="repro-stats ecosystem" />
-
 <br/><br/>
 
 [![CRAN](https://img.shields.io/badge/CRAN-reproducr-276DC3?logo=r&logoColor=white)](https://cran.r-project.org/package=reproducr)
@@ -30,8 +25,7 @@ science, defensible regulatory submissions, and research that holds up under
 scrutiny – months, years, or decades later.
 
 We build open-source R tooling that makes reproducibility **automatic,
-auditable, and actionable** – for academic researchers, clinical
-biostatisticians, epidemiologists, and pharmaceutical statisticians alike.
+auditable, and actionable** – for academic, clinical, and pharmaceutical settings alike.
 
 -----
 
@@ -59,7 +53,7 @@ runnable, CI-tested, and certified on every push.
 |[reproducr-ecology](https://github.com/repro-stats/reproducr-ecology)  |Ecology                   |General R users              |[![](https://github.com/repro-stats/reproducr-ecology/actions/workflows/reproducr-audit.yml/badge.svg)](https://github.com/repro-stats/reproducr-ecology/actions/workflows/reproducr-audit.yml)  |
 |[reproducr-clinical](https://github.com/repro-stats/reproducr-clinical)|Clinical trials           |Biostatisticians, pharma     |[![](https://github.com/repro-stats/reproducr-clinical/actions/workflows/reproducr-audit.yml/badge.svg)](https://github.com/repro-stats/reproducr-clinical/actions/workflows/reproducr-audit.yml)|
 |[reproducr-rwe](https://github.com/repro-stats/reproducr-rwe)          |Real world evidence       |Epidemiologists, HEOR        |[![](https://github.com/repro-stats/reproducr-rwe/actions/workflows/reproducr-audit.yml/badge.svg)](https://github.com/repro-stats/reproducr-rwe/actions/workflows/reproducr-audit.yml)          |
-|[reproducr-cmc](https://github.com/repro-stats/reproducr-cmc)          |CMC / ICH Q1B, Q1E, Q2(R1)|CMC statisticians, regulatory|[![](https://github.com/repro-stats/reproducr-cmc/actions/workflows/reproducr-audit.yml/badge.svg)](https://github.com/repro-stats/reproducr-cmc/actions/workflows/reproducr-audit.yml)          |
+|[reproducr-cmc](https://github.com/repro-stats/reproducr-cmc)          |CMC / ICH Q1B, Q1E, Q2(R1)|CMC statisticians, pharma|[![](https://github.com/repro-stats/reproducr-cmc/actions/workflows/reproducr-audit.yml/badge.svg)](https://github.com/repro-stats/reproducr-cmc/actions/workflows/reproducr-audit.yml)          |
 
 -----
 
@@ -70,14 +64,9 @@ gallery pipelines, or documentation improvements.
 
 The fastest way to start is a new entry in
 [**reproducr-db**](https://github.com/repro-stats/reproducr-db).
-No package development experience required – just a reproducibility problem
-you have encountered and want to help others avoid.
 
 -----
 
 <div align="center">
-<br/>
-<sub>MIT licensed &nbsp;·&nbsp; built with R &nbsp;·&nbsp; open to contributions</sub>
-<br/><br/>
 <em>If your analysis is worth running, it is worth running reproducibly.</em>
 </div>
