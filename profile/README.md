@@ -2,17 +2,11 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/repro-stats/reproducr/main/man/figures/logo.svg" width="90" alt="reproducr logo" />
-
 <h2>repro-stats</h2>
 
 <p><strong>Because your results should mean the same thing tomorrow as they do today.</strong></p>
 
-<br/><br/>
-
-[![CRAN](https://img.shields.io/badge/CRAN-reproducr-276DC3?logo=r&logoColor=white)](https://cran.r-project.org/package=reproducr)
-[![docs](https://img.shields.io/badge/docs-repro--stats.github.io-0F6E56)](https://repro-stats.github.io/reproducr/)
-[![database](https://img.shields.io/badge/community-reproducr--db-orange)](https://github.com/repro-stats/reproducr-db)
+<br/>
 
 </div>
 
@@ -20,50 +14,30 @@
 
 ## The mission
 
-Reproducibility is not a checkbox. It is the foundation of trustworthy
-science, defensible regulatory submissions, and research that holds up under
-scrutiny – months, years, or decades later.
+Reproducibility and accountability are not checkboxes. They are the foundation
+of trustworthy science, defensible regulatory submissions, and research that
+holds up under scrutiny — months, years, or decades later.
 
-We build open-source R tooling that makes reproducibility **automatic,
-auditable, and actionable** – for academic, clinical, and pharmaceutical settings alike.
-
------
-
-## Package
-
-|                                                         |Description                       |Status                                                                                                                                                                            |
-|---------------------------------------------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[**reproducr**](https://github.com/repro-stats/reproducr)|Core reproducibility package for R|[![R-CMD-check](https://github.com/repro-stats/reproducr/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/repro-stats/reproducr/actions/workflows/R-CMD-check.yml)|
-
-## Database
-
-|                                                               |Description                                                             |Status                                                                                                                                                                         |
-|---------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[**reproducr-db**](https://github.com/repro-stats/reproducr-db)|Community-maintained database of known breaking changes in CRAN packages|[![validate](https://github.com/repro-stats/reproducr-db/actions/workflows/validate.yml/badge.svg)](https://github.com/repro-stats/reproducr-db/actions/workflows/validate.yml)|
+We build open-source R tooling that makes reproducibility and auditability
+**automatic, verifiable, and actionable** — for academic, clinical, and
+pharmaceutical settings alike.
 
 -----
 
-## Gallery
+## Packages
 
-End-to-end reproducible pipelines across domains – each independently
-runnable, CI-tested, and certified on every push.
-
-|                                                                       |Domain                    |Audience                     |Badge                                                                                                                                                                                            |
-|-----------------------------------------------------------------------|--------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[reproducr-ecology](https://github.com/repro-stats/reproducr-ecology)  |Ecology                   |General R users              |[![](https://github.com/repro-stats/reproducr-ecology/actions/workflows/reproducr-audit.yml/badge.svg)](https://github.com/repro-stats/reproducr-ecology/actions/workflows/reproducr-audit.yml)  |
-|[reproducr-clinical](https://github.com/repro-stats/reproducr-clinical)|Clinical trials           |Biostatisticians, pharma     |[![](https://github.com/repro-stats/reproducr-clinical/actions/workflows/reproducr-audit.yml/badge.svg)](https://github.com/repro-stats/reproducr-clinical/actions/workflows/reproducr-audit.yml)|
-|[reproducr-rwe](https://github.com/repro-stats/reproducr-rwe)          |Real world evidence       |Epidemiologists, HEOR        |[![](https://github.com/repro-stats/reproducr-rwe/actions/workflows/reproducr-audit.yml/badge.svg)](https://github.com/repro-stats/reproducr-rwe/actions/workflows/reproducr-audit.yml)          |
-|[reproducr-cmc](https://github.com/repro-stats/reproducr-cmc)          |CMC / ICH Q1B, Q1E, Q2(R1)|CMC statisticians, pharma|[![](https://github.com/repro-stats/reproducr-cmc/actions/workflows/reproducr-audit.yml/badge.svg)](https://github.com/repro-stats/reproducr-cmc/actions/workflows/reproducr-audit.yml)          |
+|                                                            | Description                                                                        | Status |
+|------------------------------------------------------------|------------------------------------------------------------------------------------|--------|
+| [**reproducr**](https://github.com/repro-stats/reproducr) | Behavioural reproducibility auditing — scan scripts, certify outputs, detect drift | [![R-CMD-check](https://github.com/repro-stats/reproducr/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/repro-stats/reproducr/actions/workflows/R-CMD-check.yml) |
+| [**regulog**](https://github.com/repro-stats/regulog)     | Tamper-evident, hash-chained audit logging for R applications                      | [![R-CMD-check](https://github.com/repro-stats/regulog/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/repro-stats/regulog/actions/workflows/R-CMD-check.yaml) |
 
 -----
 
 ## Contributing
 
-We welcome contributions of all kinds – new packages, database entries,
-gallery pipelines, or documentation improvements.
-
-The fastest way to start is a new entry in
-[**reproducr-db**](https://github.com/repro-stats/reproducr-db).
+We welcome contributions of all kinds — new packages, bug reports, or
+documentation improvements. See the individual package repositories for
+contribution guidelines.
 
 -----
 
