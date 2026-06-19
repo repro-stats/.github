@@ -2,7 +2,7 @@
 
 <br/>
 
-<h2>repro-stats</h2>
+<h1>repro-stats</h1>
 
 <p><strong>Because your results should mean the same thing tomorrow as they do today.</strong></p>
 
