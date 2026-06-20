@@ -26,10 +26,10 @@ pharmaceutical settings alike.
 
 ## Packages
 
-|                                                            | Description                                                                        | Status |
-|------------------------------------------------------------|------------------------------------------------------------------------------------|--------|
-| [**reproducr**](https://github.com/repro-stats/reproducr) | Behavioural reproducibility auditing — scan scripts, certify outputs, detect drift | [![R-CMD-check](https://github.com/repro-stats/reproducr/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/repro-stats/reproducr/actions/workflows/R-CMD-check.yml) |
-| [**regulog**](https://github.com/repro-stats/regulog)     | Tamper-evident, hash-chained audit logging for R applications                      | [![R-CMD-check](https://github.com/repro-stats/regulog/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/repro-stats/regulog/actions/workflows/R-CMD-check.yaml) |
+|                                                            | Description                                                                        | Status | CRAN |
+|------------------------------------------------------------|------------------------------------------------------------------------------------|--------|------|
+| [**reproducr**](https://github.com/repro-stats/reproducr) | Behavioural reproducibility auditing — scan scripts, certify outputs, detect drift | [![R-CMD-check](https://github.com/repro-stats/reproducr/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/repro-stats/reproducr/actions/workflows/R-CMD-check.yml) | [![CRAN status](https://www.r-pkg.org/badges/version/reproducr)](https://CRAN.R-project.org/package=reproducr) | 
+| [**regulog**](https://github.com/repro-stats/regulog)     | Tamper-evident, hash-chained audit logging for R applications                      | [![R-CMD-check](https://github.com/repro-stats/regulog/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/repro-stats/regulog/actions/workflows/R-CMD-check.yaml) | [![CRAN status](https://img.shields.io/badge/CRAN-not%20yet-lightgrey)](https://cran.r-project.org) |
 
 -----
 
