@@ -1,7 +1,7 @@
 <div align="center">
 <br/>
 <h1>reprostats</h1>
-<p><strong>Open-source R infrastructure for rigorous pharmaceutical data science.</strong></p>
+<p><strong>Open-source infrastructure for rigorous pharmaceutical data science.</strong></p>
 <br/>
 </div>
 
