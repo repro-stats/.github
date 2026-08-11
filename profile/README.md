@@ -19,7 +19,7 @@ pharmaceutical settings alike.
 
 ---
 
-## ReproStats Infrastructure
+## Reprostats Infrastructure
 
 Packages addressing reproducibility, auditability, and data provenance in GxP
 analytical workflows. Designed for environments operating under FDA, EMA, and
@@ -28,8 +28,8 @@ ICH requirements.
 |  | Description | CI | CRAN |
 |---|---|---|---|
 | [**reproducr**](https://github.com/repro-stats/reproducr) | Behavioural reproducibility auditing — scan scripts, certify outputs, detect drift | [![R-CMD-check](https://github.com/repro-stats/reproducr/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/repro-stats/reproducr/actions/workflows/R-CMD-check.yml) | [![CRAN](https://www.r-pkg.org/badges/version/reproducr)](https://CRAN.R-project.org/package=reproducr) |
-| [**regulog**](https://github.com/repro-stats/regulog) | Tamper-evident, hash-chained electronic audit logging — 21 CFR Part 11 and EU Annex 11. Ships with IQ/OQ/PQ qualification scripts | [![R-CMD-check](https://github.com/repro-stats/regulog/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/repro-stats/regulog/actions/workflows/R-CMD-check.yaml) | [![CRAN](https://img.shields.io/badge/CRAN-pending-orange)](https://cran.r-project.org) |
-| [**lineager**](https://github.com/repro-stats/lineager) | Row-level data provenance for clinical datasets — full traceability from SDTM to ADaM, mandatory exclusion documentation, CONSORT-style disposition tables | [![R-CMD-check](https://github.com/repro-stats/lineager/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/repro-stats/lineager/actions/workflows/R-CMD-check.yaml) | [![CRAN](https://img.shields.io/badge/CRAN-not%20yet-lightgrey)](https://cran.r-project.org) |
+| [**regulog**](https://github.com/repro-stats/regulog) | Tamper-evident, hash-chained electronic audit logging — 21 CFR Part 11 and EU Annex 11. Ships with IQ/OQ/PQ qualification scripts | [![R-CMD-check](https://github.com/repro-stats/regulog/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/repro-stats/regulog/actions/workflows/R-CMD-check.yaml) | [![CRAN](https://www.r-pkg.org/badges/version/regulog)](https://CRAN.R-project.org/package=regulog) |
+| [**lineager**](https://github.com/repro-stats/lineager) | Row-level data provenance for clinical datasets — full traceability from SDTM to ADaM, mandatory exclusion documentation, CONSORT-style disposition tables | [![R-CMD-check](https://github.com/repro-stats/lineager/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/repro-stats/lineager/actions/workflows/R-CMD-check.yaml) | [![CRAN](https://img.shields.io/badge/CRAN-pending-orange)](https://cran.r-project.org) |
 
 ---
 
